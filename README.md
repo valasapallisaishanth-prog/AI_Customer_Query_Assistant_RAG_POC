@@ -45,7 +45,7 @@ NLP Preprocessing
 
 Google Colab
 
-🚀 How to Run
+**How to Run**
 
 Open the notebook in Google Colab
 
